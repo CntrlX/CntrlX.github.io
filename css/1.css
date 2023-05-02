@@ -1049,12 +1049,39 @@ body{
 .exodia{
     background-image:url("../Images/vaibhavLogo.png")
 }
-.about--options>a:nth-child(2){
-    background-image:url("../img/about-philosophy.jpg")
+
+.GE2{
+    background-image:url("../Images/CSE/\ \(1\).png")
 }
-.about--options>a:nth-child(3){
-    background-image:url("../img/about-history.jpg")
+.Error{
+    background-image:url("../Images/CSE/\ \(2\).jpg")
 }
+.Dream{
+    background-image:url("../Images/CSE/\ \(4\).jpg")
+}
+.Foam{
+    background-image:url("../Images/CSE/\ \(5\).jpg")
+}
+.Treasure{
+    background-image:url("../Images/CSE/\ \(6\).jpg")
+}
+.codeCrush{
+    background-image:url("../Images/CSE/\ \(8\).jpg")
+}
+.tryHackMe{
+    background-image:url("../Images/CSE/\ \(9\).jpg")
+}
+.fastFingers{
+    background-image:url("../Images/CSE/\ \(10\).jpg")
+}
+.tagWars{
+    background-image:url("../Images/CSE/\ \(11\).jpg")
+}
+.LeParis{
+    background-image:url("../Images/CSE/\ \(7\).jpg")
+}
+
+
 .about--options>a:hover h3{
     bottom:-50px
 }

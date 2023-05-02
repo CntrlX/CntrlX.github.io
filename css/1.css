@@ -1022,7 +1022,7 @@ body{
     display:-webkit-flex;
     display:-ms-flexbox;
     display:flex;
-    max-width:600px;
+    max-width:1200px;
     -webkit-box-pack:justify;
     -webkit-justify-content:space-between;
     -ms-flex-pack:justify;
@@ -1034,7 +1034,7 @@ body{
 .about--options>a{
     position:relative;
     width:150px;
-    height:75px;
+    height:200px;
     text-decoration:none;
     color:#fff;
     border:10px solid #0f33ff;
